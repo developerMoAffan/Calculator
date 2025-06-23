@@ -23,6 +23,3 @@ A clean, responsive, and minimalistic calculator built using **HTML**, **CSS**, 
 - **localStorage** to persist expressions
 
 ---
-
-## 📂 Project Structure
-
